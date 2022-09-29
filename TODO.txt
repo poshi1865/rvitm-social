@@ -1,0 +1,1 @@
+1. Figure out how to register users and store them on firebase.
